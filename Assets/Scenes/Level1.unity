@@ -551,7 +551,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 658123378461362132, guid: b616c3a14fb53bf48abdd5864ec59329, type: 3}
       propertyPath: m_Interactable
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1741205885225646428, guid: b616c3a14fb53bf48abdd5864ec59329, type: 3}
       propertyPath: m_LocalScale.x
@@ -661,6 +661,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3203812786335692892, guid: b616c3a14fb53bf48abdd5864ec59329, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3443990476173603999, guid: b616c3a14fb53bf48abdd5864ec59329, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.01
@@ -681,6 +685,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: -474
       objectReference: {fileID: 0}
+    - target: {fileID: 3834345322384982951, guid: b616c3a14fb53bf48abdd5864ec59329, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4304187338315265562, guid: b616c3a14fb53bf48abdd5864ec59329, type: 3}
       propertyPath: m_Name
       value: Canvas
@@ -696,6 +704,10 @@ PrefabInstance:
     - target: {fileID: 5211179130888909977, guid: b616c3a14fb53bf48abdd5864ec59329, type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6791845333884169781, guid: b616c3a14fb53bf48abdd5864ec59329, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6820314770759742372, guid: b616c3a14fb53bf48abdd5864ec59329, type: 3}
       propertyPath: m_Color.a
